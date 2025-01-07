@@ -1,5 +1,8 @@
 # Stan's Robot - 3-Tier Application on EKS 🤖💻
+---
+![website-full-future](https://github.com/user-attachments/assets/e8b0f78b-86fb-49a9-8f25-81fee00c3e22)
 
+---
 Stan's Robot is a 3-tier application deployed on Amazon EKS (Elastic Kubernetes Service). This project demonstrates how to create and configure an EKS cluster, deploy a 3-tier architecture, and integrate various AWS services like the AWS Load Balancer Controller and EBS CSI plugin for persistent storage.
 
 ## Project Overview 🌍🚀
