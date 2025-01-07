@@ -19,7 +19,8 @@ This project aims to help you understand and practice deploying modern, scalable
 
 **Architecture Diagram:**
 
-![Architecture Diagram](path_to_your_architecture_image)
+(![EKS-Architecture-Stan's-Robot-Shop](https://github.com/user-attachments/assets/2c542b0b-9a7b-453b-bbe9-a948ee3b5fef)
+
 
 ## Prerequisites 📋
 
